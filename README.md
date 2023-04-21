@@ -1,2 +1,3 @@
 # PySpark-News-Authentication-Project
-Using PySpark MLlib and NLP News Authentication 
+
+This project is designed to detect and classify fake news articles using PySpark with Word2Vec as the core feature extraction technique. The system is trained on a diverse dataset collected from reputable sources like Kaggle, McIntire, Reuters, BuzzFeed Political, and other news websites. For Model Authentication the data is collected using Beautiful Soup, which scrapes news articles from various websites. The proposed system is deployed using Streamlit, which provides an interactive and user-friendly interface to test the system. The proposed system has the potential to contribute significantly to the fight against the proliferation of fake news articles.
